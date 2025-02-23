@@ -34,4 +34,4 @@ see: tagifier.js for more details.
 
 
 
-![preview](https://github.com/user-attachments/assets/bfb4adc2-6917-49bf-bbd7-767bd44733e1)
+[preview](https://github.com/user-attachments/assets/bfb4adc2-6917-49bf-bbd7-767bd44733e1)
