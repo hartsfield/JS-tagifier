@@ -2,10 +2,8 @@
 
 #                             JS - tagifier
 
-                     A free (and pure) solution for
-                     instant/live  HTML text  field 
-                     analysis, modification, & rep-
-                     lacement.
+## A free (and pure) solution for instant/live  HTML text  field analysis, 
+modification, & replacement.
 
 
  This is something like a "keyword highlighter" for html/text fields, but its
